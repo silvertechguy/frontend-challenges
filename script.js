@@ -2,6 +2,9 @@ const projects = [
   {
     name: '1-four-card-feature-section',
   },
+  {
+  	name: '2-base-apparel-coming-soon'
+  }
 ];
 
 const list = document.getElementById('list');
